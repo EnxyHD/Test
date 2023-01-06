@@ -1,0 +1,64 @@
+*{
+ font-family: sans-serif;
+}
+body{
+    margin: 0;
+    background-color: aqua;
+}
+.kopfzeile{
+    background-color: dimgray;
+    height: 90px;
+    padding-top: 1px;
+    font-size: 20px;
+    width: 1920px;
+}
+.kategorien{
+    text-decoration: none;
+    float: none;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: black;
+}
+.kategorien:hover{
+    color:aqua;
+    text-decoration: none;
+}
+img.zeichen {
+    float: left;
+    vertical-align: bottom; 
+    height: 70px
+}
+.tabelle1{
+    width:290px;
+}
+.tabelle2{
+    width:310px;
+}
+.tabelle3{
+    width:310px;
+}
+.tabelle4{
+    width:220px;
+}
+.tabelle5{
+    width:320px;
+}
+.suche{
+    width: 680px;
+    margin-left: 1250px;
+    margin-top: 12px;
+}
+.box1{
+    
+}
+.box2{
+    
+}
+.box3{
+    
+}
+.box4{
+    
+}
